@@ -160,7 +160,7 @@ This visualization helps understand:
 - Winning consistency  
 - Strong vs weaker teams in IPL history  
 
-![IPL Team Performance](newplot (2).png)
+![IPL Team Performance](ipl.png)
 
 
 ## 🔮 Future Enhancements
