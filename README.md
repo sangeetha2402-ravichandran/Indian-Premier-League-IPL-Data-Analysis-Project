@@ -145,6 +145,24 @@ These charts help in **easy interpretation of patterns and trends**.
 
 ---
 
+## 📊 IPL Team Performance Analysis
+
+### 🏏 Total Matches vs Matches Won (IPL Teams)
+
+The bar chart shows a comparison between:
+- **Total matches played**
+- **Matches won**
+
+for different **Indian Premier League (IPL) teams**.
+
+This visualization helps understand:
+- Team performance over seasons  
+- Winning consistency  
+- Strong vs weaker teams in IPL history  
+
+![IPL Team Performance](newplot (2).png)
+
+
 ## 🔮 Future Enhancements
 
 - Player performance prediction using Machine Learning  
